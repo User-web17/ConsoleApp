@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+    // Coding Failure
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
 
